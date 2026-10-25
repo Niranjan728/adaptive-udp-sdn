@@ -90,7 +90,6 @@ adaptive-udp-sdn/
     └── D1_Report.pdf
 ```
 
-*Note: Include files and folders that exist in your repository. The experiments and analysis scripts support the planned Deliverable 2 evaluation.*
 
 ## 5. Technologies Used
 
