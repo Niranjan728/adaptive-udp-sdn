@@ -333,7 +333,7 @@ The implementation provides a foundation for further evaluation of failure detec
 ---
 
 **GitHub Repository:**
-`https://github.com/<your-username>/adaptive-udp-sdn`
+`https://github.com/Niranjan728/adaptive-udp-sdn`
 
 **Course:** Computer Networks (UE25CS243A)
 **Project:** Jackfruit Mini Project — Problem 30
